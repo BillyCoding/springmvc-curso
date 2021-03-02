@@ -11,7 +11,7 @@
 	<groupId>com.springmvc.curso</groupId>
 	<artifactId>springmvc-curso</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springmvc-curso</name>
+	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>

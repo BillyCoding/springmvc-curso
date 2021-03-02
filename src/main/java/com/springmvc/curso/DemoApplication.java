@@ -1,13 +1,13 @@
-package com.springmvc.curso.springmvccurso;
+package com.springmvc.curso;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringmvcCursoApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringmvcCursoApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }
